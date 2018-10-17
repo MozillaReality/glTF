@@ -13,6 +13,7 @@ The following extension prefixes are reserved:
 * `EXT` - Multi-vendor
 * `FB` - Facebook
 * `GOOGLE` - Google
+* `HUBS` - Mozilla Hubs
 * `KHR` - Ratified or intended-to-be-ratified Khronos
 * `LLQ` - Lifeliqe
 * `MOZ` - Mozilla
